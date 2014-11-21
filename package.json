@@ -1,7 +1,7 @@
 {
   "name": "unzip-stream",
   "version": "0.0.0",
-  "description": "",
+  "description": "unzip zipfile streams in node",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -14,5 +14,16 @@
   },
   "devDependencies": {
     "concat-stream": "^1.4.6"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trevorah/unzip-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trevorah/unzip-stream/issues"
+  },
+  "homepage": "https://github.com/trevorah/unzip-stream"
 }
