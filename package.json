@@ -9,7 +9,7 @@
   "author": "Andy Trevorah",
   "license": "MIT",
   "dependencies": {
-    "decompress-zip": "^0.0.8",
+    "decompress-zip": "^0.2.2",
     "temp": "^0.8.1"
   },
   "devDependencies": {
